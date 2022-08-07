@@ -1,0 +1,1 @@
+The SQL database is hosted on AZURE, it is ON and ready for testing.
